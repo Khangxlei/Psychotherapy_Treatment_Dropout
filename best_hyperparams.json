@@ -1,0 +1,20 @@
+{
+    "XGBoost": {
+        "learning_rate": 0.014531491616187445,
+        "max_depth": 7,
+        "n_estimators": 193,
+        "subsample": 0.6203203216415256
+    },
+    "Random Forest": {
+        "n_estimators": 444,
+        "max_depth": 6,
+        "max_features": 0.9607182047665905
+    },
+    "SVM": {
+        "C": 0.48124953495663586,
+        "gamma": 0.45364328988842273
+    },
+    "Ordinal Logistic Regression": {
+        "alpha": 8.218466617449538
+    }
+}
